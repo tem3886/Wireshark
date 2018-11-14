@@ -1,0 +1,3 @@
+1. https://www.wireshark.org/download.html에 접속
+2. 자신의 os을 확인하고 자신의 os에 맞는 파일을 다운로드(윈도우시 자신의 컴퓨터 bit도 체크)
+3. Default로 세팅을하고 Wireshark 설치
